@@ -1,50 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="geral.css">
-    <title>Home - Dados </title>
-</head>
-<body>
-    <main>
-        <div id="header">
-            <a href="#"><div id="logo-box"><img src="img/ifba-logo.png"></div></a>
-            <a href="#">link1</a>
-            <a href="#">link2</a>
-            <a href="#">link3</a>
-            <a href="#">link4</a>
-        </div>
-
-        <div class="content">
-            <section>
-                <h1>Tópico 1</h1>
-                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda ipsa autem blanditiis consectetur consequatur voluptates, deserunt porro voluptatum perspiciatis? Reprehenderit omnis iure ipsum perferendis dolorum, optio blanditiis ipsa eum quia possimus mollitia! Dolore at maxime qui necessitatibus et laborum ipsum labore dolor illum ex. Nihil nam voluptatum quae quos alias.
-                </p>
-            </section>
-        <div class="img-grafico">
-            &NonBreakingSpace;
-        </div>
-
-        <div class="img-grafico">
-            &NonBreakingSpace;
-        </div>
-        <div class="img-grafico">
-            &NonBreakingSpace;
-        </div>
-        <section>
-            <h1>Tópico 2</h1>
-            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda ipsa autem blanditiis consectetur consequatur voluptates, deserunt porro voluptatum perspiciatis? Reprehenderit omnis iure ipsum perferendis dolorum, optio blanditiis ipsa eum quia possimus mollitia! Dolore at maxime qui necessitatibus et laborum ipsum labore dolor illum ex. Nihil nam voluptatum quae quos alias.
-            </p>
-        </section>
-    <div class="img-grafico">
-        &NonBreakingSpace;
-    </div>
-    <div class="img-grafico">
-        &NonBreakingSpace;
-    </div>
-    </div>
-        <div id="footer">
+<!---
+    <footer class="foot-index">
+        <ul>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="pag1.php">Pag 1</a></li>
+            <li><a href="pag2.php">Pag 2</a></li>
+            <li><a href="pag3.php">Pag 3</a></li>
+            <li><a href="about.php">Quem Somos</a></li>
+        </ul>
+    </footer>
+-->
+<div id="footer">
             <div id="env"></div>
             <div id="footer-box">
                 <div id="linha-vertical"></div>   
@@ -110,6 +75,5 @@
                 </div>
             </div>
         </div>
-    </main>
 </body>
 </html>
