@@ -9,18 +9,21 @@
 
 html{
     --white :#FAFAFA;
-    --background: #8AE1B5;
+    
     --primary-dark: #022709;
     --primary : #034811;
+    --semi-primary : #03481180;
     --secondary: #0F8841;
     --tetiary : #1ac770;
-    --tetiary-dark: #1ac77085;
+    --semi-tetiary: #1ac77080;
+    --tetiary-dark: #0f7140d9;
+    --background: linear-gradient(#8AE1B5, #0F8841);
     font-family: 'Montserrat', sans-serif;
 }    
 
 html, body {
     width: 100%;
-    background-color: var(--background);
+    background: var(--background);
 }
 
 /* Absolute Container */
@@ -87,7 +90,7 @@ header a:hover {
 .content{
     padding: 1rem;
     flex: 0 0 50%;
-    background: var(--tetiary);
+    background: var(--tetiary-dark);
     box-sizing: border-box;
     
 }
@@ -107,7 +110,7 @@ header a:hover {
     align-self:flex-start;
     position: sticky;
     top: 0;
-    background-color: var(--tetiary-dark);
+    background-color: var(--semi-tetiary);
     box-sizing: border-box;
     
 }
@@ -139,7 +142,7 @@ figure img {
 
 .tracker {
     color: var(--secondary);
-    filter: drop-shadow(0px 0px 8px rgba(59, 217, 217, 0.45));
+    filter: drop-shadow(0px 0px 8px rgba(75, 255, 200, 0.25));
     
 }
 
@@ -156,8 +159,8 @@ figure img {
 .tracker progress[value]::-webkit-progress-bar {
     background-color: hsla(180, 80%, 85%, 0.75);
     backdrop-filter: blur(8px) saturate(180%);
-    border-radius: 1rem;
-    filter: drop-shadow(0px 0px 8px rgba(59, 217, 217, 0.45));
+    border-radius: 1rem; 
+    filter: drop-shadow(0px 0px 8px rgba(75, 255, 201, 0.75));
     
 }
 
@@ -165,7 +168,7 @@ figure img {
 .tracker progress[value]::-webkit-progress-value {
     background-color: var(--secondary);
     border-radius: 1rem;
-    filter: drop-shadow(0px 0px 8px rgba(59, 217, 217, 0.45));
+    filter: drop-shadow(0px 0px 8px rgba(75, 255, 200, 0.75));
 }
 
 hr {
