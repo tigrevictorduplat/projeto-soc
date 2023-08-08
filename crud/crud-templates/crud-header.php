@@ -19,7 +19,7 @@ if (!isset($_SESSION["username"])) {
 <body>
     <header class="blur">
         <figure class="head-logo">
-            <a href="https://open.spotify.com/"><i class="fa fa-spotify fa-3x"></i></a>
+            <a href="#"><img src="../src/img/ifba-logo.png" alt="IFBA Camaçari Logo"></a>
         </figure>
         <div class="head-nav">
             <ul>
