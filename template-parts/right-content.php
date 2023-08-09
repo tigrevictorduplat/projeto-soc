@@ -8,7 +8,7 @@ $resultExtra = mysqli_query($con,"SELECT * FROM tb_extras WHERE `extra_id` = '$e
 $rightContent = mysqli_fetch_array($resultExtra);
 ?>
 
-<h2>4° T.I - Campus Camaçari</h2>
+<h2>Inserção da Comunidade Acadêmica Negra do IFBA Campus Camaçari no Mercado de Trabalho</h2>
 <figure class="album-img">
     <img src="<?= $rightContent['extra_img'] ?>" alt="Imagem do Tópico Atual">
 </figure>
