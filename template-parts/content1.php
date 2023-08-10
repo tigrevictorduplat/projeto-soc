@@ -17,16 +17,18 @@ Cruzando essas duas realidades buscamos com nossa pesquisa explicitar, através 
     <p>Abaixo estão as respostas obtidas gráficos. Observe que fizemos perguntas diversas, com o propósito de definir o perfil de nossos entrevistados. Além das perguntas de caráter identitário temos aquelas que visam medir a percepção dos participantes com relação ao nosso tema.</p>
     <p>Vale ressaltar que, por se tratar da percepção deles, nem todos tiveram a noção ou percepção de episódios racistas ou nem sequer tiveram oportunidade de participar de um processo seletivo (como pode ser verificado logo mais em <a href="#perguntas">Perguntas Discursivas</a> ).</p>
     <div class="grafico-gerais">
-    <img src="../src/img/gerais/p1.png" alt="Pergunta 1">
-    <img src="../src/img/gerais/p2.png" alt="Pergunta 2">
-    <img src="../src/img/gerais/p3.png" alt="Pergunta 3">
-    <img src="../src/img/gerais/p4.png" alt="Pergunta 4">
-    <img src="../src/img/gerais/p5.png" alt="Pergunta 5">
-    <img src="../src/img/gerais/p6.png" alt="Pergunta 6">
-    <img src="../src/img/gerais/p7.png" alt="Pergunta 7">
-    <img src="../src/img/gerais/p8.png" alt="Pergunta 8">
-    <img src="../src/img/gerais/p9.png" alt="Pergunta 9">
-    </div>
+
+    <a href="../pags/pag1.php#p1" ><img id="p1" src="../src/img/gerais/p1.png" alt="Pergunta 1"></a>
+    <a href="../pags/pag1.php#p2" ><img id="p2" src="../src/img/gerais/p2.png" alt="Pergunta 2"></a>
+    <a href="../pags/pag1.php#p3" ><img id="p3" src="../src/img/gerais/p3.png" alt="Pergunta 3"></a>
+    <a href="../pags/pag1.php#p4" ><img id="p4" src="../src/img/gerais/p4.png" alt="Pergunta 4"></a>
+    <a href="../pags/pag1.php#p5" ><img id="p5" src="../src/img/gerais/p5.png" alt="Pergunta 5"></a>
+    <a href="../pags/pag1.php#p6" ><img id="p6" src="../src/img/gerais/p6.png" alt="Pergunta 6"></a>
+    <a href="../pags/pag1.php#p7" ><img id="p7" src="../src/img/gerais/p7.png" alt="Pergunta 7"></a>
+    <a href="../pags/pag1.php#p8" ><img id="p8" src="../src/img/gerais/p8.png" alt="Pergunta 8"></a>
+    <a href="../pags/pag1.php#p9" ><img id="p9" src="../src/img/gerais/p9.png" alt="Pergunta 9"></a>
+    
+</div>
     
     <h2 id="perguntas">Perguntas Discursivas</h2>
     <div class="perguntas">

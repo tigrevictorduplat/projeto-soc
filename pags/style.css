@@ -9,7 +9,7 @@
 
 html{
     --white :#d6f5e6;
-    --semi-white :#d6f5e680;
+    --semi-white :rgba(214, 245, 230, 0.75);
     --primary-dark: #022709;
     --primary : #034811;
     --semi-primary : #03481180;
@@ -50,7 +50,7 @@ header {
     box-shadow: 1px 0.75rem 1rem 0 var(--primary-dark);
 }
 header a {
-    font-size: 1.25rem;
+    font-size: 1rem;
     color: var(--white);
     text-decoration: none;
 }
@@ -74,7 +74,7 @@ header a:hover {
 
 .head-nav li{
     display: inline-block;
-    padding: 1.5rem;
+    padding: 1rem;
 }
 
 .head-nav i{
@@ -101,13 +101,21 @@ header a:hover {
 }
 .content h2, .content p {
     margin: 0.5rem;
+    color: var(--white);
     padding: 1.5rem;
 }
 .content h2 {
-    color: var(--white);
+   
     font-size: 1.75rem;
     font-weight: lighter;
 }
+
+.content h3 {
+    padding: 1.5rem;
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+
 .content p {
     text-align: justify;
     line-height: 1.25rem;

@@ -22,9 +22,9 @@
         <div class="head-nav">
         <ul>
             <li><a href="index.php">Home</a></li>
-            <li><a href="pag1.php">Objetivo e Objeto de Estudo</a></li>
-            <li><a href="pag2.php">Perfil</a></li>
-            <li><a href="pag3.php">Recortes</a></li>
+            <li><a href="pag1.php">Objetivo</a></li>
+            <li><a href="pag2.php">Dados Cruzados </a></li>
+            <li><a href="pag3.php">Entrevistas Indiivuais</a></li>
             <li><a href="about.php">Quem Somos</a></li>
             </div>
             <div class="head-nav">
